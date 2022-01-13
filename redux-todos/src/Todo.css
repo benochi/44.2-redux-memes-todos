@@ -1,0 +1,13 @@
+.todo {
+  color: rgb(253, 186, 161);
+  text-align: center;
+  background-color: grey;
+  border-style: solid black;
+  font-size: 40px;
+}
+
+.todo button {
+  border-style: solid;
+  border-color: coral;
+  border-width: 7px;
+}
